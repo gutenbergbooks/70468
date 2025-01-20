@@ -16,6 +16,7 @@ Author: Daniel Defoe
 Translator: Francis William Newman
 
 Release Date: April 5, 2023 [eBook #70468]
+Last Updated: June 17, 2023
 
 Language: Latin
 
@@ -660,7 +661,7 @@ farīnā; et facile in arcās dējiciō. Fabīs atque mīliō praesertim
 erāmus nigrītās cibātūrī, et sānē multum hujus cibī portābāmus, 
 sed īnfrā in alveō. Jam trēs cāseōs Batavicōs arripiō, caprīnae 
 carnis siccātae massās quīnque, (quā carne vel maximē 
-vēscēbāmur,) et frūmentī Eurōpaeī relliquiās quāsdam, quod ad 
+vēscēbāmur,) et frūmentī Eurōpaeī reliquiās quāsdam, quod ad 
 gallīnās alendās convēxerāmus. Gallīnae vī procellārum perierant 
 omnēs. Cēterum trīticum fuit id, cum hordeō: posteā invēnī 
 corruptum esse per sōricēs. 
@@ -1940,7 +1941,7 @@ intrāverat. Axem ego quadrātam coepī incīdere, īnscrīptiōnem
 quasi sepulcrī dēsignāns. Tālis erat: 
 
 Rebilius Crūsō, 
-Anglōrum cīvīs,
+Anglōrum cīvis,
 Maurōrum captīvus,
 Braziliēnsis colōnus,
 Hīc naufragus sōlitārius,
@@ -5226,6 +5227,7 @@ kept in this version.
 Fixed printing errors: (this list may be useful even for the
 original version) 
 
+15 relliquias > reliquias
 25 sustentata > sustentatam
 33 quator > quatuor
 51 consuctudine > consuetudine
